@@ -14,7 +14,7 @@ const About = () => {
     >
       <Typography variant="h2">About Me</Typography>
       <Typography>
-        Hi, I'm Geoffrey, a software engineer that loves problem solving in
+        Hi, I&apos;m Geoffrey, a software engineer that loves problem solving in
         unique ways!{" "}
       </Typography>
       <AboutBox />

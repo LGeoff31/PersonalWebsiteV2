@@ -13,8 +13,8 @@ const Project = () => {
     >
       <Typography variant="h2">Projects</Typography>
       <Typography>
-        Here are some notable projects I've created but more are available at my
-        Github!
+        Here are some notable projects I&apos;ve created but more are available
+        at my Github!
       </Typography>
       <Link
         href="https://return-pal.vercel.app/"

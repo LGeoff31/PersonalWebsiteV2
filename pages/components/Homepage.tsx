@@ -21,7 +21,7 @@ const Homepage = () => {
         margin="0 auto"
         color="white"
       >
-        Hi, I'm Geoffrey Lee 👋{" "}
+        Hi, I&apos;m Geoffrey Lee 👋{" "}
       </Typography>
       <Typography
         variant="h4"
