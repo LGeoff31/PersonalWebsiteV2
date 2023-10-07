@@ -110,9 +110,8 @@ const Navbar = () => {
         <Divider />
         <List className="hamburger">
           {navigationLinks.map((item, idx) => (
-            <ListItem>
+            <ListItem key={idx}>
               <Link
-                key={idx}
                 href={item.href}
                 sx={{
                   fontSize: "1.25rem",
