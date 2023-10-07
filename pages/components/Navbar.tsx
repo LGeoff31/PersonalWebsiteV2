@@ -68,6 +68,7 @@ const Navbar = () => {
           >
             {navigationLinks.map((item, idx) => (
               <Link
+                key={idx}
                 href={item.href}
                 sx={{
                   fontSize: "1.25rem",

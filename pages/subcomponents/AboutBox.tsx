@@ -47,6 +47,7 @@ const AboutBox = () => {
     <Stack>
       {aboutData.map((experience, idx) => (
         <AboutMeSection
+          key={idx}
           name={experience.name}
           description={experience.description}
           heading={experience.heading}
