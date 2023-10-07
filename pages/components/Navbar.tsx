@@ -66,7 +66,7 @@ const Navbar = () => {
               justifyContent: "flex-end",
             }}
           >
-            {navigationLinks.map((item) => (
+            {navigationLinks.map((item, idx) => (
               <Link
                 href={item.href}
                 sx={{

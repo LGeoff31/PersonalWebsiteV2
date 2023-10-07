@@ -33,7 +33,8 @@ const Homepage = () => {
         textAlign="center"
         paddingBottom="1rem"
       >
-        I'm a student who loves solving <br /> problems with software and math!{" "}
+        I&apos;m a student who loves solving <br /> problems with software and
+        math!{" "}
       </Typography>
       <Stack direction="row" gap="10px" margin="0 auto">
         <InstagramIcon
